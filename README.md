@@ -1,3 +1,3 @@
-# demo 2
+# demo component patter
 
-textik
+simple component pattern demo in c++
